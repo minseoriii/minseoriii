@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi there👋</h1>
+<p align="center">
+  <img src="images/deanInHp.jpg" />
+</p>
 <p align="center">
   CS Student
 </p>
