@@ -24,15 +24,16 @@
 - **Practice** – Android/Kotlin study commits
 - **C_Assignment** – C language learning note & backjoon
 
----
 
 
-<details>
 
-  <!-- Repo/README 공개에만 사용 권장 -->
+
+
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=minseoriii&show_icons=true&hide_title=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseoriii&layout=compact" height="150" />
-</details>
+
+---
 
 <!-- 푸터 -->
 <p align="center">
