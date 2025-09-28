@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/deanInHp.jpg" />
+  <img src="images/deanInHp.jpg" , width="400"/>
 </p>
 <p align="center">
   CS Student
