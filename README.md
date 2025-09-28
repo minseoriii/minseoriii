@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there👋</h1>
 <p align="center">
-  Android • Kotlin • CS Student
+  CS Student
 </p>
 
 
@@ -12,17 +12,33 @@
 </p>
 
 ---
-
 ## 👩‍💻 About Me
 - working on first project using Android studio, kotlin
-- goal : time to become familiar with git
+- 
+## 🎯 Goals for This Year
+
+<p>
+  <span style="font-weight: bold; color: #ff69b4; border: 2px solid #ff69b4; border-radius: 8px; padding: 4px 8px; margin-right: 8px;">
+    Goal 1
+  </span>
+  Get familiar with Git
+</p>
+
+<p>
+  <span style="font-weight: bold; color: #4caf50; border: 2px solid #4caf50; border-radius: 8px; padding: 4px 8px; margin-right: 8px;">
+    Goal 2
+  </span>
+   Master Overwatch 2 healer Ana 
+</p>
+
+
 
 ## 🧱 Tech (learning)
 `Kotlin` · `Android` · `C`
 
-## 🗂️ Projects
+## 🗂️ Repository
 - **Practice** – Android/Kotlin study commits
-- **C_Assignment** – C language learning note & backjoon
+- **C_Workspace** – C language learning note & backjoon
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=minseoriii&show_icons=true&hide_title=true" height="150" />
