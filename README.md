@@ -14,22 +14,10 @@
 ---
 ## 👩‍💻 About Me
 - working on first project using Android studio, kotlin
-- 
+  
 ## 🎯 Goals for This Year
-
-<p>
-  <span style="font-weight: bold; color: #ff69b4; border: 2px solid #ff69b4; border-radius: 8px; padding: 4px 8px; margin-right: 8px;">
-    Goal 1
-  </span>
-  Get familiar with Git
-</p>
-
-<p>
-  <span style="font-weight: bold; color: #4caf50; border: 2px solid #4caf50; border-radius: 8px; padding: 4px 8px; margin-right: 8px;">
-    Goal 2
-  </span>
-   Master Overwatch 2 healer Ana 
-</p>
+- goal 1 : get familiar with Git
+- goal 2 : master Overwatch 2 healer Ana
 
 
 
