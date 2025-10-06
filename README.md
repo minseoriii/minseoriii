@@ -4,31 +4,11 @@
 </p>
 <p align="center">
   CS Student
-</p>
-
-
-<p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
 </p>
 
----
-## 👩‍💻 About Me
-- working on first project using Android studio, kotlin
-  
-## 🎯 Goals for This Year
-- goal 1 : get familiar with Git
-- goal 2 : master Overwatch 2 healer Ana
-
-
-
-## 🧱 Tech (learning)
-`Kotlin` · `Android` · `C`
-
-## 🗂️ Repository
-- **Practice** – Android/Kotlin study commits
-- **C_Workspace** – C language learning note & backjoon
 ---
 
 <img  src="https://github-readme-stats.vercel.app/api?username=kmsae3405&theme=dark&show_icons=true"/>
