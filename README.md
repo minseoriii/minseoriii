@@ -31,9 +31,9 @@
 - **C_Workspace** – C language learning note & backjoon
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=minseoriii&show_icons=true&hide_title=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseoriii&layout=compact" height="150" />
-![minseo's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kmsae3405)
+<img  src="https://github-readme-stats.vercel.app/api?username=kmsae3405&theme=dark&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseoriii&layout=compact" />
+<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmsae3405"/>
 
 ---
 
