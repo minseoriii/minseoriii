@@ -3,7 +3,6 @@
   <img src="images/deanInHp.jpg" , width="400"/>
 </p>
 <p align="center">
-  CS Student
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
@@ -11,7 +10,7 @@
 
 ---
 
-<img  src="https://github-readme-stats.vercel.app/api?username=kmsae3405&theme=dark&show_icons=true"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=minseoriii&theme=dark&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseoriii&layout=compact" />
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmsae3405"/>
 
