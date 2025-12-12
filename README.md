@@ -10,8 +10,6 @@
 
 ---
 
-<img  src="https://github-readme-stats.vercel.app/api?username=minseoriii&theme=dark&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseoriii&layout=compact" />
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmsae3405"/>
 
 ---
