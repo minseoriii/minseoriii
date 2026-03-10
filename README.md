@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="./images/levii.gif" width="400"/>
+ ![levii](https://github.com/user-attachments/assets/7e1eea27-982d-41a2-84ec-c47ea68bd13c)
+
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
