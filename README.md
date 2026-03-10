@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/deanInHp.jpg" , width="400"/>
+  <img src="images/5486AD864A05FF0027.jpg" , width="400"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
