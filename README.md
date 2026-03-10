@@ -1,6 +1,6 @@
 
 <p align="center">
-  <<img src="https://i3.ruliweb.com/ori/5/4/8/6/5486AD734A0A6F001E" width="400" />
+  <<img src="images\levi.gif" width="400" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
